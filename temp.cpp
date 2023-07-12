@@ -1,31 +1,21 @@
 #include<bits/stdc++.h>
+#include <stack>
+#include <string>
 using namespace std;
 
-vector<int> stockspan(vector<int> prices){
-    vector<int> ans;
+int main(){
 
-    stack<pair<int,int>> s;
-
-    for(auto price: prices){
-        int days=1;
-        while(!s.empty() and s.top().first<=price){
-            days+=s.top().second;
-            s.pop();
-        }
-        s.push({price,days});
-        ans.push_back(days);
+  string str="(((a+(b))+(c+d)))";
+  
+  stack<char>stack;
+  stack.push('a');
+  stack.push('b');
+  stack.push('c');
+   while (!stack.empty()) {
+        cout << stack.top() <<" ";
+        stack.pop();
     }
 
-    return ans;
 
-}
-
-// This is the main function.
-int main() {
-  vector<int> a={ 100, 80, 60, 70, 60, 75,85};
-  vector<int> res=stockspan(a);
-  for(auto i : res){
-    cout<<i<<" ";
-  }
-  cout<<"\n";
+  return 0;  
 }
