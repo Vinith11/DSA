@@ -25,7 +25,7 @@ string decodeString(string s) {
                 temp+=temp2;
                 }
 
-                for(int k=0;k<temp.size();k++)
+                for(int k=0;k<temp.size();k++) 
                 st.push(temp[k]);
             }
         }

@@ -33,7 +33,7 @@ int dupParen(string str){
 
 int main(){
 
-  string str="(((a+(b))+(c+d)))";
+  string str="()))((";
   
   if (dupParen(str))
         cout << "Duplicate Found ";
