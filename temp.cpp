@@ -1,27 +1,40 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-void printBracketNumber(string exp, int n) {
-  
-  int left_bnum=1;
-  stack<int>right_bnum;
+vector<int> asteroidCollision(vector<int>& asteroids) {
 
+  stack<int>a;
 
-  for (int i = 0; i < n; i++) {    
-    if(exp[i]=='('){
-      cout<< left_bnum<<" ";
-
-      right_bnum.push(left_bnum);
-
-      left_bnum++;
+  for(int i=0;i<asteroids.size(); i++){
+    if(asteroids[i]>0){
+      a.push(i);
+      continue;
     }
 
-    else if(exp[i]==')'){
-      cout<<right_bnum.top()<<" ";
+    while(!a.empty()){
+      if(asteroids[a.top()]>abs(asteroids[i])){
+        asteroids[i]=0;
+        break;
+      }
+      else if(steroids[a.top()]==abs(asteroids[i])){
+        asteroids[i]=0;
+        a.top();
+        asteroids[i]=0;
+        break;
+      }
 
-      right_bnum.pop();
+      asteroids[a.top()]=0;
+      a.pop();
     }
+
   }
+  vector<int> ans;
+     for(int i=0;i<asteroids.size();i++)
+        if(asteroids[i]!=0)
+            ans.push_back(asteroids[i]);
+
+     return ans;
+    
 }
 
 int main(){
