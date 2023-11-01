@@ -2,6 +2,8 @@
     "files.associations": {
         "xstring": "cpp",
         "xutility": "cpp",
-        "stack": "cpp"
-    }
+        "stack": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
