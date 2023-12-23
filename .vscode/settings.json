@@ -1,9 +1,11 @@
 {
     "files.associations": {
+        "*.js": "javascriptreact",
         "xstring": "cpp",
         "xutility": "cpp",
         "stack": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "iostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
