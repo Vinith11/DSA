@@ -10,10 +10,10 @@ public class _74_2dMatrix {
 
         while (row < matrix.length && col >= 0) {
             if (matrix[row][col] == target) {
-                return true; 
-            }else if (matrix[row][col] > target) {
-                col--; 
-            }else {
+                return true;
+            } else if (matrix[row][col] > target) {
+                col--;
+            } else {
                 row++;
             }
         }
@@ -50,9 +50,10 @@ public class _74_2dMatrix {
             if (lastElement == target) {
                 return true;
             } else if (lastElement > target) {
-                // Perform binary search on the current row
                 return bs(row, target);
+
             }
+
         }
 
         // If the loop completes without finding the target
@@ -60,8 +61,8 @@ public class _74_2dMatrix {
     }
 
     public static void main(String[] args) {
-        int[][] matrix = new int[][]{{1, 3, 5}};
-        int target = 1;
+        int[][] matrix = new int[][] { { 1, 3, 5, 7 }, { 10, 11, 16, 20 }, { 23, 30, 34, 60 } };
+        int target = 11;
         System.out.println(method2(matrix, target));
     }
 }
