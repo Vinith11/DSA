@@ -10,4 +10,13 @@
 |   8   | [Largest Element in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0) | _largeElemnt |
 |   9   | [Second Largest ](https://www.geeksforgeeks.org/problems/second-largest3735/1) | _secndlargeele |
 |   10   | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | _1752_checkSortArr |
-|   11   | [Question 4](https://www.example.com/question4) | question4.md |
+|   11   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | _rmDuplicateSortarr |
+|   12   | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | _rtrarr |
+|   13   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | _movezeros |
+|   14   | [Sorted Array Search/ linear searh](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | _linearsearch |
+|   15   | [Union of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | _uniionArr |
+|   16   | [Missing Number](https://leetcode.com/problems/missing-number/description/) | _missnum |
+|   17   | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | _findMaxConsecutiveOnes |
+|   18   | [Single Number](https://leetcode.com/problems/single-number/description/) | _singleNumber |
+|   19   | [Longest Sub-Array with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | _longSubArrSumK |
+|   20   | [Question 4](https://www.example.com/question4) | question4.md |
