@@ -18,7 +18,12 @@
 |   14   | [Missing Number](https://leetcode.com/problems/missing-number/description/) | _missnum |
 |   15   | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | _findMaxConsecutiveOnes |
 |   16   | [Single Number](https://leetcode.com/problems/single-number/description/) | _singleNumber |
-|   17   | [Question 4](https://www.example.com/question4) | question4.md |
+|   17   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description) | _merge2Arr |
+|   18   | [Remove Element](https://leetcode.com/problems/remove-element/description) | _removeElement |
+|   19   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | _removeDuplicates |
+|   20   | [Question 4](https://www.example.com/question4) | question4.md |
+|   20   | [Question 4](https://www.example.com/question4) | question4.md |
+|   20   | [Question 4](https://www.example.com/question4) | question4.md |
 
 
 
@@ -29,4 +34,5 @@
 |   1   | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | _rtrarr |
 |   2   | [Union of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | _uniionArr |
 |   3   | [Longest Sub-Array with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | _longSubArrSumK |
+|   4   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description) | _removeDuplicatesII |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
