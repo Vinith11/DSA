@@ -65,7 +65,7 @@ public class _isIsomorphic {
     
     public static void main(String[] args) {
         String a="egg";
-        String b="ahd";
+        String b="jgg";
         System.out.println(isIsomorphic2(a,b));
     }
 }
