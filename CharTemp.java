@@ -20,5 +20,9 @@ public class CharTemp {
         System.out.println("Check if it is a Letter or Digit : " + Character.isLetterOrDigit(a));
         System.out.println("Check if it is a Letter or Digit : " + Character.isLetterOrDigit(digit));
 
+        int num = 3;
+        System.out.println((int) 3);
+        System.out.println((double) 3);
+
     }
 }
