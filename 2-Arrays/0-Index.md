@@ -21,8 +21,8 @@
 |   17   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description) | _merge2Arr |
 |   18   | [Remove Element](https://leetcode.com/problems/remove-element/description) | _removeElement |
 |   19   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | _removeDuplicates |
-|   20   | [Question 4](https://www.example.com/question4) | question4.md |
-|   20   | [Question 4](https://www.example.com/question4) | question4.md |
+|   20   | [Majority element](https://leetcode.com/problems/majority-element/) | _majorityElement |
+|   21   | [Array Leaders](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/) | _arrLeaders |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 
 
@@ -35,4 +35,12 @@
 |   2   | [Union of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | _uniionArr |
 |   3   | [Longest Sub-Array with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | _longSubArrSumK |
 |   4   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description) | _removeDuplicatesII |
+|   5   | [Sort colors](https://leetcode.com/problems/sort-colors/) | _sortColors |
+|   6   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | __maxSubArray |
+|   7   | [Rearrange array elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | _rearrangeArray |
+|   8   | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | _longestConsecutive |
+|   9   | [Question 4](https://www.example.com/question4) | _rotate2dArr |
+|   10   | [Question 4](https://www.example.com/question4) | _subarraySum |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
+
+
