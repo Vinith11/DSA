@@ -23,8 +23,11 @@
 |   19   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | _removeDuplicates |
 |   20   | [Majority element](https://leetcode.com/problems/majority-element/) | _majorityElement |
 |   21   | [Array Leaders](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/) | _arrLeaders |
+|   22   | [Maximum average subarray i](https://leetcode.com/problems/maximum-average-subarray-i/) | _findMaxAverage |
+|   23   | [Find subarrays with equal sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | _findSubarraysKlen |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
-
+|   20   | [Question 4](https://www.example.com/question4) | question4.md |
+|   20   | [Question 4](https://www.example.com/question4) | question4.md |
 
 
 # Medium
@@ -39,8 +42,8 @@
 |   6   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | __maxSubArray |
 |   7   | [Rearrange array elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | _rearrangeArray |
 |   8   | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | _longestConsecutive |
-|   9   | [Question 4](https://www.example.com/question4) | _rotate2dArr |
 |   10   | [Question 4](https://www.example.com/question4) | _subarraySum |
+|   11   | [k radius subarray averages](https://leetcode.com/problems/k-radius-subarray-averages/) | _getAveragesForKraduis |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 
 
