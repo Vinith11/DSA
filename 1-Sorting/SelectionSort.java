@@ -3,7 +3,7 @@ public class SelectionSort {
     /*
      * Selection Sort
      * 
-     * We find minimum and then swap the elements
+     * We first find the minimum and then swap the smallest elements with subbaray 
      *
      * It has an O(n^2) time complexity,
      * 
@@ -16,9 +16,12 @@ public class SelectionSort {
      */
 
      public static int[] selectionSort(int[] arr){
-        for(int i=0; i<= arr.length-2; i++){
+        
+        int n = arr.length;
+        
+        for(int i=0; i<n-1; i++){
             int min = i;
-            for(int j=i; j<arr.length; j++){
+            for(int j=i+1; j<n; j++){
                 if(arr[min]>arr[j]){
                     min=j;
                 }
@@ -30,6 +33,9 @@ public class SelectionSort {
 
         return arr;
     }
+    
+
+
     public static void main(String[] args) {
         int[] arr = { 64, 25, 12, 22, 11 };
         arr = selectionSort(arr);
