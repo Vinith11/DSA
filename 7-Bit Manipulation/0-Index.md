@@ -30,5 +30,5 @@
 |-------|--------------|-----------|
 |   1   | [Question 4](https://www.example.com/question4) | _singleNumber2 |
 |   2   | [Single number iii](https://leetcode.com/problems/single-number-iii/) | _singleNumber3 |
+|   3   | [Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/) | _getSum |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
-

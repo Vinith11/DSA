@@ -42,7 +42,10 @@
 |   4   | [Delete the middle node of a linked list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | _deleteMiddle |
 |   5   | [Sort List](hhttps://leetcode.com/problems/sort-list/) | _sortList |
 |   6   | [Sort 0, 1, 2](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | _sortLL012 |
-|   7   | [reorder-list](https://leetcode.com/problems/reorder-list/description/) | _reorderList |
+|   7   | [Reorder list](https://leetcode.com/problems/reorder-list/description/) | _reorderList |
+|   8   | [Add two numbers](https://leetcode.com/problems/add-two-numbers/) | _addTwoNumbers |
+|   9   | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/) | __findDuplicate |
+|   10   | [Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | _copyRandomList |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
