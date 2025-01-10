@@ -41,3 +41,10 @@
 |   20   | [Question 4](https://www.example.com/question4) | _beautySum |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
+
+
+# Hard
+
+| Index | Question Link | File Name |
+|   1   | [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring) | _minWindow |
+|   20   | [Question 4](https://www.example.com/question4) | question4.md |
