@@ -49,3 +49,11 @@
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
+
+
+
+# Hard
+
+| Index | Question Link | File Name |
+|-------|--------------|-----------|
+|   1   | [Merge k-sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) | _mergeKLists |

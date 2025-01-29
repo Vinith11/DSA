@@ -38,8 +38,8 @@
 |   3   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | _frequencySort |
 |   4   | [Count number of substrings](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | _substrCount |
 |   5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | _5_LongPalindStr |
-|   20   | [Question 4](https://www.example.com/question4) | _beautySum |
-|   20   | [Question 4](https://www.example.com/question4) | question4.md |
+|   6   | [String encode and decode](https://neetcode.io/problems/string-encode-and-decode) | _beautySum |
+|   20   | [Question 4](https://www.example.com/question4) | _encode&decode |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
 
 
