@@ -17,4 +17,5 @@
 |-------|--------------|-----------|
 |   1   | [Ceil The Floor](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401) | _getFloorAndCeil |
 |   2   | [Find First and Last Position of Element in Sorted](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | _searchRange |
+|   3   | [longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | _lengthOfLIS |
 |   20   | [Question 4](https://www.example.com/question4) | question4.md |
