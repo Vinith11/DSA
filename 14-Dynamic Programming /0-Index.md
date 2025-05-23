@@ -17,6 +17,12 @@
 |   4   | [word break](https://leetcode.com/problems/word-break) | _wordBreak |
 |   5   | [house robber](https://leetcode.com/problems/house-robber/) | _rob |
 |   6   | [combination sum](https://leetcode.com/problems/combination-sum) | _combinationSum |
+|   7   | [unique paths](https://leetcode.com/problems/unique-paths/description) | _uniquePaths |
+|   8   | [jump game](https://leetcode.com/problems/jump-game) | _canJump |
+|   9   | [decode ways](https://leetcode.com/problems/decode-ways) | _numDecodings |
+
+
+
 
 
 

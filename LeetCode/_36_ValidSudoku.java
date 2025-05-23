@@ -1,11 +1,9 @@
-
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class _36_ValidSudoku{
 
     public static boolean isValidSudoku(char[][] board) {
-        Set seen = new HashSet();
+        Set<String> seen = new HashSet<>();
         for (int i=0; i<9; ++i) {
             for (int j=0; j<9; ++j) {
                 char number = board[i][j];
